@@ -1,6 +1,6 @@
 # Programa de Bolsas - Data Science
 <div>
-  <img src="https://media.licdn.com/dms/image/D4D03AQFtD4L8kslUHw/profile-displayphoto-shrink_200_200/0/1692932801184?e=1718841600&v=beta&t=9r6ib5-P5yislaH9Ngw_M2MvOd3OdhEW69KPz9RRt3c">
+  <img src="https://media.licdn.com/dms/image/D4D03AQFtD4L8kslUHw/profile-displayphoto-shrink_200_200/0/1692932801184?e=1726704000&v=beta&t=UYf85wKr4sZbcJeRgNHFMRvicG98J8mhLRjJYfWsv98">
 </div>
 
 ## Sobre Mim:
